@@ -1,0 +1,21 @@
+body{
+	background: url(dice.jpeg) no-repeat center center fixed;
+	/*background-image: url(dice.jpeg);
+	background-position: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;*/
+}
+
+.box{
+	padding: 15px;
+	border: 2px solid lightgrey;
+	border-radius: 10px;
+	width:40%;
+	height: auto;
+}
+.paras,h3{
+	font-family: Calibri;
+	font-size: 15pt;
+	color: white;
+	text-align: justify;
+}
