@@ -1,9 +1,8 @@
 body{
-	background: url(dice.jpeg) no-repeat center center fixed;
-	/*background-image: url(dice.jpeg);
-	background-position: fixed;
-	background-size: cover;
-	background-repeat: no-repeat;*/
+	background-image: url(dice.jpeg);
+	background-position: center;
+  	background-size: cover;
+  	height:100%;
 }
 
 .box{
